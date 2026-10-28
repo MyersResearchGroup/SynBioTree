@@ -1,0 +1,12 @@
+# Data: never commit the RDF dump or anything derived from it
+*.nq
+*.nq.gz
+*.fa
+*.fasta
+*.tsv
+*.nwk
+*.log
+*.json
+*.sqlite
+*.sqlite.bak
+__pycache__/
